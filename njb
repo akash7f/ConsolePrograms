@@ -1,0 +1,2 @@
+Time taken by Python list to sort 10000000 values : 3.911353349685669
+Time taken by NumPy array to sort 10000000 values : 0.9251391887664795
