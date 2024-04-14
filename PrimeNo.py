@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def primeNo(x):
     if x < 1:
         return
